@@ -4,7 +4,9 @@ package dlm;
  * 
  * @author David McEwen
  * 
- * Solutions to problem six of Project Euler
+ * Solution to problem six of Project Euler
+ * 
+ * https://projecteuler.net/problem=6
  *
  */
 public class Six {
